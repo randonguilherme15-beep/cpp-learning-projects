@@ -1,0 +1,86 @@
+SIMULAZIONE TOLC-I - DIAGNOSTICO 1
+Nome: Guilherme Randon
+Domande: 10
+Corrette: 5
+Errate: 5
+Non risposte: 0
+Punteggio stile TOLC: 3.75/10
+Tempo totale: 469 secondi
+
+DETTAGLIO RISPOSTE
+=========================================
+
+Domanda 1 - Matematica
+Se 3x - 5 = 16, quanto vale x?
+Risposta data: B
+Risposta corretta: B
+Esito: CORRETTA
+Tempo: 18 secondi
+
+Domanda 2 - Matematica
+Quale frazione e' equivalente a 0,375?
+Risposta data: C
+Risposta corretta: A
+Esito: ERRATA
+Tempo: 178 secondi
+Spiegazione: 0,375 = 375/1000 = 3/8.
+
+Domanda 3 - Matematica
+Quanto vale (2^3 * 2^4) / 2^5?
+Risposta data: D
+Risposta corretta: B
+Esito: ERRATA
+Tempo: 48 secondi
+Spiegazione: Con la stessa base: 2^(3+4-5) = 2^2 = 4.
+
+Domanda 4 - Logica
+Completa la sequenza: 2, 6, 12, 20, 30, ...
+Risposta data: C
+Risposta corretta: C
+Esito: CORRETTA
+Tempo: 31 secondi
+
+Domanda 5 - Logica
+Tutti i programmatori sono curiosi. Alcune persone curiose sono musicisti. Quale conclusione e' certamente vera?
+Risposta data: C
+Risposta corretta: C
+Esito: CORRETTA
+Tempo: 37 secondi
+
+Domanda 6 - Comprensione verbale
+La frase 'Benche' fosse stanco, continuo' a studiare' indica:
+Risposta data: D
+Risposta corretta: B
+Esito: ERRATA
+Tempo: 29 secondi
+Spiegazione: 'Benche'' introduce una concessione: il fatto avviene nonostante un ostacolo.
+
+Domanda 7 - Comprensione verbale
+Quale parola e' il contrario di 'effimero'?
+Risposta data: C
+Risposta corretta: C
+Esito: CORRETTA
+Tempo: 17 secondi
+
+Domanda 8 - Scienze
+Qual e' l'unita' di misura della forza nel Sistema Internazionale?
+Risposta data: A
+Risposta corretta: D
+Esito: ERRATA
+Tempo: 12 secondi
+Spiegazione: La forza si misura in newton (N).
+
+Domanda 9 - Scienze
+Un corpo percorre 120 metri in 15 secondi a velocita' costante. Qual e' la velocita'?
+Risposta data: C
+Risposta corretta: B
+Esito: ERRATA
+Tempo: 71 secondi
+Spiegazione: v = spazio / tempo = 120 / 15 = 8 m/s.
+
+Domanda 10 - Matematica
+Qual e' il dominio della funzione 1/(x - 4)?
+Risposta data: D
+Risposta corretta: D
+Esito: CORRETTA
+Tempo: 23 secondi

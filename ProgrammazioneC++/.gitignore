@@ -1,0 +1,16 @@
+# File compilati C/C++
+*.exe
+*.o
+*.obj
+
+# File generati da Code::Blocks
+*.depend
+*.layout
+
+# Cartelle di compilazione
+bin/
+obj/
+
+# File temporanei
+*.tmp
+*.log

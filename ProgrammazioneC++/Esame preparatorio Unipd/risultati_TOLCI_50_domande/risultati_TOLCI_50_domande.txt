@@ -1,0 +1,360 @@
+SIMULAZIONE TOLC-I - 50 DOMANDE
+Corrette: 39
+Errate: 10
+Vuote: 1
+Punteggio: 36.50/50
+Tempo totale: 1016 secondi
+Tempo medio: 20.32 secondi per domanda
+
+DETTAGLIO RISPOSTE
+========================================
+
+Domanda 1 - Matematica
+Quanto vale 3/4 + 1/8?
+Tua risposta: C
+Corretta: C
+Esito: CORRETTA
+Spiegazione: 3/4 = 6/8, quindi 6/8 + 1/8 = 7/8.
+
+Domanda 2 - Matematica
+Risolvi: 2x + 5 = 17
+Tua risposta: B
+Corretta: B
+Esito: CORRETTA
+Spiegazione: 2x = 12, quindi x = 6.
+
+Domanda 3 - Matematica
+Qual e' il 25% di 80?
+Tua risposta: C
+Corretta: C
+Esito: CORRETTA
+Spiegazione: 25% di 80 = 20.
+
+Domanda 4 - Matematica
+Semplifica 48/64.
+Tua risposta: B
+Corretta: B
+Esito: CORRETTA
+Spiegazione: Dividendo entrambi per 16 si ottiene 3/4.
+
+Domanda 5 - Matematica
+Quanto vale 2^5?
+Tua risposta: D
+Corretta: D
+Esito: CORRETTA
+Spiegazione: 2^5 = 32.
+
+Domanda 6 - Matematica
+Quanto vale 3^2 * 3^4?
+Tua risposta: A
+Corretta: A
+Esito: CORRETTA
+Spiegazione: Stessa base: si sommano gli esponenti.
+
+Domanda 7 - Matematica
+Quanto vale (2^3)^2?
+Tua risposta: B
+Corretta: B
+Esito: CORRETTA
+Spiegazione: Potenza di potenza: 3*2 = 6.
+
+Domanda 8 - Matematica
+Quale frazione corrisponde a 0,375?
+Tua risposta: A
+Corretta: A
+Esito: CORRETTA
+Spiegazione: 0,375 = 375/1000 = 3/8.
+
+Domanda 9 - Matematica
+Quale numero e' maggiore?
+Tua risposta: B
+Corretta: B
+Esito: CORRETTA
+Spiegazione: 3/5 = 0,6; 5/8 = 0,625.
+
+Domanda 10 - Matematica
+Risolvi: 5x - 10 = 25
+Tua risposta: C
+Corretta: C
+Esito: CORRETTA
+Spiegazione: 5x = 35, quindi x = 7.
+
+Domanda 11 - Matematica
+Se x = 3, quanto vale 2x^2 + 1?
+Tua risposta: C
+Corretta: C
+Esito: CORRETTA
+Spiegazione: 2*9+1 = 19.
+
+Domanda 12 - Matematica
+Dominio di 1/(x-4)?
+Tua risposta: B
+Corretta: C
+Esito: ERRATA
+Spiegazione: Il denominatore non puo' essere zero.
+
+Domanda 13 - Matematica
+Radice quadrata di 144?
+Tua risposta: C
+Corretta: C
+Esito: CORRETTA
+Spiegazione: 12*12 = 144.
+
+Domanda 14 - Matematica
+Due numeri consecutivi hanno prodotto 56. Quali?
+Tua risposta: B
+Corretta: B
+Esito: CORRETTA
+Spiegazione: 7*8 = 56.
+
+Domanda 15 - Matematica
+MCD tra 36 e 48?
+Tua risposta: C
+Corretta: C
+Esito: CORRETTA
+Spiegazione: Il massimo divisore comune e' 12.
+
+Domanda 16 - Matematica
+mcm tra 6 e 8?
+Tua risposta: C
+Corretta: C
+Esito: CORRETTA
+Spiegazione: Il primo multiplo comune e' 24.
+
+Domanda 17 - Matematica
+7/20 in forma decimale?
+Tua risposta: X
+Corretta: C
+Esito: VUOTA
+Spiegazione: 7/20 = 35/100 = 0,35.
+
+Domanda 18 - Matematica
+Se 3/4 = x/20, quanto vale x?
+Tua risposta: B
+Corretta: B
+Esito: CORRETTA
+Spiegazione: Moltiplicando per 5: x = 15.
+
+Domanda 19 - Matematica
+Quanto vale 15 - 3*4?
+Tua risposta: B
+Corretta: B
+Esito: CORRETTA
+Spiegazione: Prima 3*4 = 12, poi 15-12 = 3.
+
+Domanda 20 - Matematica
+Quanto vale |-7|?
+Tua risposta: C
+Corretta: C
+Esito: CORRETTA
+Spiegazione: Il valore assoluto e' 7.
+
+Domanda 21 - Logica
+Tutti i programmatori usano un computer. Marco usa un computer. Marco e' sicuramente programmatore?
+Tua risposta: D
+Corretta: B
+Esito: ERRATA
+Spiegazione: Usare un computer non implica essere programmatore.
+
+Domanda 22 - Logica
+Completa: 2, 4, 8, 16, ...
+Tua risposta: D
+Corretta: D
+Esito: CORRETTA
+Spiegazione: Ogni numero raddoppia.
+
+Domanda 23 - Logica
+Completa: 1, 4, 9, 16, ...
+Tua risposta: C
+Corretta: C
+Esito: CORRETTA
+Spiegazione: Sono quadrati perfetti.
+
+Domanda 24 - Logica
+Tutti gli A sono B e nessun B e' C. Allora:
+Tua risposta: A
+Corretta: A
+Esito: CORRETTA
+Spiegazione: A e' contenuto in B e B non contiene C.
+
+Domanda 25 - Logica
+Quale elemento non appartiene al gruppo?
+Tua risposta: C
+Corretta: D
+Esito: ERRATA
+Spiegazione: Il cubo e' tridimensionale.
+
+Domanda 26 - Logica
+Completa: A, C, E, G, ...
+Tua risposta: B
+Corretta: B
+Esito: CORRETTA
+Spiegazione: Si salta una lettera ogni volta.
+
+Domanda 27 - Logica
+Anna e' piu' alta di Luca; Luca piu' alto di Marco. Chi e' il piu' basso?
+Tua risposta: C
+Corretta: C
+Esito: CORRETTA
+Spiegazione: Anna > Luca > Marco.
+
+Domanda 28 - Logica
+Se oggi e' lunedi', che giorno sara' tra 10 giorni?
+Tua risposta: B
+Corretta: B
+Esito: CORRETTA
+Spiegazione: 10 giorni = 7+3, quindi giovedi.
+
+Domanda 29 - Logica
+Completa: 3, 6, 12, 24, ...
+Tua risposta: D
+Corretta: D
+Esito: CORRETTA
+Spiegazione: Ogni numero raddoppia.
+
+Domanda 30 - Logica
+Nessun pesce e' mammifero. Il delfino e' mammifero. Quindi:
+Tua risposta: B
+Corretta: B
+Esito: CORRETTA
+Spiegazione: Un mammifero non puo' essere un pesce.
+
+Domanda 31 - Scienze
+Unita' SI della forza?
+Tua risposta: A
+Corretta: C
+Esito: ERRATA
+Spiegazione: La forza si misura in newton.
+
+Domanda 32 - Scienze
+Un'auto percorre 180 km in 3 ore. Velocita' media?
+Tua risposta: B
+Corretta: B
+Esito: CORRETTA
+Spiegazione: 180/3 = 60 km/h.
+
+Domanda 33 - Scienze
+Quale organo pompa il sangue?
+Tua risposta: C
+Corretta: C
+Esito: CORRETTA
+Spiegazione: Il cuore pompa il sangue.
+
+Domanda 34 - Scienze
+Gas piu' abbondante nell'atmosfera?
+Tua risposta: B
+Corretta: B
+Esito: CORRETTA
+Spiegazione: L'azoto e' circa il 78%.
+
+Domanda 35 - Scienze
+A pressione normale l'acqua bolle a:
+Tua risposta: C
+Corretta: C
+Esito: CORRETTA
+Spiegazione: Bolle a 100 C.
+
+Domanda 36 - Scienze
+Particella con carica negativa?
+Tua risposta: A
+Corretta: C
+Esito: ERRATA
+Spiegazione: L'elettrone e' negativo.
+
+Domanda 37 - Scienze
+Formula della densita'?
+Tua risposta: A
+Corretta: B
+Esito: ERRATA
+Spiegazione: Densita' = massa/volume.
+
+Domanda 38 - Scienze
+Energia di un corpo in movimento?
+Tua risposta: B
+Corretta: B
+Esito: CORRETTA
+Spiegazione: E' energia cinetica.
+
+Domanda 39 - Scienze
+Pianeta piu' vicino al Sole?
+Tua risposta: A
+Corretta: D
+Esito: ERRATA
+Spiegazione: Mercurio e' il piu' vicino.
+
+Domanda 40 - Scienze
+Formula H2O?
+Tua risposta: B
+Corretta: B
+Esito: CORRETTA
+Spiegazione: H2O e' acqua.
+
+Domanda 41 - Comprensione
+Contrario di 'espandere'?
+Tua risposta: B
+Corretta: B
+Esito: CORRETTA
+Spiegazione: Il contrario e' ridurre.
+
+Domanda 42 - Comprensione
+'Benche' fosse stanco, continuo'': 'benche'' introduce:
+Tua risposta: B
+Corretta: C
+Esito: ERRATA
+Spiegazione: E' una proposizione concessiva.
+
+Domanda 43 - Comprensione
+Sinonimo di 'rapido'?
+Tua risposta: B
+Corretta: B
+Esito: CORRETTA
+Spiegazione: Rapido significa veloce.
+
+Domanda 44 - Comprensione
+Quale frase e' corretta?
+Tua risposta: B
+Corretta: B
+Esito: CORRETTA
+Spiegazione: L'ausiliare corretto e' 'ho'.
+
+Domanda 45 - Comprensione
+'Ambiguo' significa:
+Tua risposta: C
+Corretta: C
+Esito: CORRETTA
+Spiegazione: Ambiguo significa non univoco.
+
+Domanda 46 - Comprensione
+Completa: 'Il risultato dipende ___ metodo utilizzato'.
+Tua risposta: A
+Corretta: A
+Esito: CORRETTA
+Spiegazione: Si dice dipendere da: dal metodo.
+
+Domanda 47 - Comprensione
+Congiunzione avversativa?
+Tua risposta: B
+Corretta: C
+Esito: ERRATA
+Spiegazione: 'Ma' indica opposizione.
+
+Domanda 48 - Comprensione
+In 'Luca legge un libro', il soggetto e':
+Tua risposta: C
+Corretta: C
+Esito: CORRETTA
+Spiegazione: Il soggetto e' Luca.
+
+Domanda 49 - Comprensione
+Quale frase esprime una causa?
+Tua risposta: B
+Corretta: B
+Esito: CORRETTA
+Spiegazione: 'Perche' piove' esprime la causa.
+
+Domanda 50 - Comprensione
+Quale forma e' corretta?
+Tua risposta: A
+Corretta: B
+Esito: ERRATA
+Spiegazione: 'Qual e'' si scrive senza apostrofo.
