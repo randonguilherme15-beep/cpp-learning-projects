@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "baseline_date": "2026-10-06",
+  "repository": "cpp-learning-projects",
+  "original_head": "9b006e9fd0fde1fa3df496a5d072d6688aa982b1",
+  "source_sha256": {
+    "ProgrammazioneC++/CalcolatriceBase.cpp": "32f9de3efb67eee66b4c010c9e95185d17602c00240065fcdacdea912467787f",
+    "ProgrammazioneC++/Accesso al server centrale/main.cpp": "20bb5a8bf981f1e0183fb51e2ab013bb0733b23e92472ab54385cda30f9b1806",
+    "ProgrammazioneC++/AustraliaPlannerPro/main.cpp": "d509db636aea14fe33fff1e7b10def471754854e6e8e7bdb8986fe297aed58be",
+    "ProgrammazioneC++/BossArena/main.cpp": "9bb1ef77c6f6ea72d8b1fdfb85c001cf6d738f08620a2c7c1577dc31d63f6260",
+    "ProgrammazioneC++/Esame preparatorio Unipd/main.cpp": "4524060cd4a3f6318dec3b2f1cf9bd584f83670c333f130a4febb3795099c72e",
+    "ProgrammazioneC++/NegozioNeonArena/main.cpp": "3efa59a25de8d068c28694247e4d442527d8770cde27cf386a3405437c062724",
+    "ProgrammazioneC++/NeonArena/main.cpp": "4207b3182f993015dec775b6c0e54a2b899a70dd286ae48e850ce5bcc5a4408b",
+    "ProgrammazioneC++/PizzaPartyMath/main.cpp": "8d72d292a4590f64e728c1da91a76dc44c1cee40e0c151048b18cc204ce59cd7",
+    "ProgrammazioneC++/PrimoProgramma/main.cpp": "89dae822ad5f02534ab31682cd503a45f7bbd9c68c97e3f9b7ea018fa55f78d9",
+    "ProgrammazioneC++/SceltaCitta/main.cpp": "ce6077e740d10670962b5aebad7c6a039bce13395bd0fdf43f281b22f8310317",
+    "ProgrammazioneC++/Visual Studio Progect/main.cpp": "b0f68d6138fcf4acab186c21f2ac184e020dc0e1853f418d702d749f4b43454c",
+    "ProgrammazioneC++/Esame preparatorio Unipd/risultati_TOLCI_50_domande/main.cpp": "817658c2f8b4b8d3b08097bf7ddda826c8514e228d0ae95b435f0251083ee635",
+    "ProgrammazioneC++/PizzaPartyMath/PizzaPartiMath/main.cpp": "8d72d292a4590f64e728c1da91a76dc44c1cee40e0c151048b18cc204ce59cd7",
+    "ProgrammazioneC++/PizzaPartyMath/PizzaPartiMath/BudgetViaggio/main.cpp": "02cd779fe4a1786ba27655f9732e258f886680bcdaecd7383a54b4d402cbae87",
+    "ProgrammazioneC++/PizzaPartyMath/PizzaPartiMath/MissioneAustralia/main.cpp": "0d7865fc390f918df8b669456848256c87ea4314e96f42eb98003d2f06d5e4e2",
+    "ProgrammazioneC++/PizzaPartyMath/PizzaPartiMath/PizzaPartyMath/main.cpp": "caa4f5f172e364c1402a0b1dcfa25f5d893dec877e866fa73ea67ac950ca0581",
+    "ProgrammazioneC++/Visual Studio Progect/.newproject/main.cpp": "b0f68d6138fcf4acab186c21f2ac184e020dc0e1853f418d702d749f4b43454c"
+  },
+  "managed_file_sha256": {
+    ".gitignore": "2dfc091a517d338643921af20230ab908c100d844752d76102d03176563ccdc0",
+    "AGENTS.md": "86541de723596bad3420cc30415c04630800422121e7a5814cfb684a2570926b",
+    "README.md": "d25845949629247ad792728c263f59da40521305bbdf5de2e5491d84a2568ac3",
+    "docs/building.md": "7c1e55d7f606d0ae3e289e4e5da8721ad1e6e39e28abff631dd4c5469fa5dd40",
+    "docs/design-notes.md": "f33c63fc83d65f47e3bdaa5f70ca0b9f08daa742787fe83bdcef53bdab70e08e",
+    "docs/examples.md": "158acbf649ec665b0ff4eefba25e3d67e0601e8267d1cdc5d37194c9426f538d",
+    "docs/maintenance-record.md": "f317114c2d218426ceba38a1a799ff2d6ca47c9b53189cae5e08c32b94f521ef",
+    "docs/validation.md": "f02525629a6d90e48d288b3beecab58fd96d219f178c463ac08eef5eee786d71",
+    "ProgrammazioneC++/.gitignore": "d92fea8b05b5a2cd7c267764950abb268a60cc61445824cea66dfd44e0a796ab",
+    "docs/topics/01-foundations.md": "ae29c99c67f519810013cd6b58b282df44838528e36a0d91594af2ae1bc30579",
+    "docs/topics/04-persistence-and-planning.md": "942e374a21d870cab2f2b31548ba105ad8e40d388076fe02c1619d64e88afa24",
+    "docs/topics/05-games-and-simulation.md": "008d37da973a5dba878fc47624e325529f56bc8fa58706434bda3ec67b646481",
+    "docs/topics/06-assessment.md": "26e3fc23a6bd9c506dc6f1ff4823bb3d457c0faa9f9f9e2971f12635265f4ad2",
+    "docs/topics/07-starter-projects.md": "0064165a005003a8c7e5386cece659311cc5cecda585fe652fa7ace8b828ef1d"
+  },
+  "policy": "Read this record before future work. Update changed content incrementally; do not regenerate over user edits. Preserve repository visibility and original source paths."
+}
